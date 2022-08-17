@@ -34,7 +34,7 @@ in the code, Ackermann's steering geometry and its' consequences were implemente
 
 ---
 For more information and all other details see the 
-[documentation](https://docs.google.com/viewer?url=https://github.com/Yaly0/RWD-Car-Module/files/9331047/dok.pdf) (written in the Bosnian language).
+[documentation](https://docs.google.com/viewer?url=https://github.com/Yaly0/RWD-Car-Module/files/9331047/dok.pdf) (written in Bosnian language).
 
 Click [here](https://www.tinkercad.com/things/gQCxgLPuAym) for testing the project on the official Tinkercad webpage.
 
